@@ -1,0 +1,64 @@
+1.  CSS allows for a separation of style and structure,it improves efficiency of webpage.It gives
+     flexibility to customize webpage.It makes webpage responsive.It creates an
+     animation,transformation of an element.
+
+2.   CSS has limitions in complex layout control.It has browser compatibility issues,Different web
+     browsers may interpret CSS rules slightly differently.It has various selectors, properties that's
+     why it takes more time and effort.It has lack of variables.With the use of extensive CSS styles or
+     inefficient CSS selectors can negatively impact page load times.It has limited dynamic styling.
+
+3.   In CSS2 there is basic properties like border,color,margin,padding etc.In CSS3 there are
+     advanced properties to make website responsive like diplay-flex,display-grid,media queries etc.
+
+4.   Selectors,Properties,Values,Box model,Typography,Colors and background,Layout and
+      positioning,Transitions,Animations,Media queries,Flexbox,Grid.
+
+5.   The opacity allows you to control the transparency of an element by specifying a value
+     between 0 and 1.A value of 0 makes the element transparent,a value of 1 makes it visible.
+
+6.   We can change background color of an element by changing CSS color value,hexadecimal
+    code,RGB value.
+
+7.   Image repeition of the backup can be controlled by the background-repeat property.It contains
+     values like repeat,repeat-x,repeat-y,no-repeat.
+
+8.   The background-position property is used to control the position of a background image with
+     its containing element. It allows you to specify where the background image should be
+     displayed.There are different values like left top,center center,right bottom.
+
+9.   The background-attachment property controls the image scroll in the background.It have the
+     values of scroll,fixed,local.
+
+10.  Background and color should be used as separate properties to maintain a clear separation
+     between the background styling and text styling of an element.This separation can give more
+     precise control on each things.
+
+11.  We can use margin property and by setting the left and right margins to auto, the block
+     element will be centered.
+  
+12.  The CSS specifications are maintained by the World Wide Web Consortium (W3C).
+  
+13.  There are 3 ways to integrate CSS as a web page.Inline:it is applied in element/tag using
+     style attribute,Internal:it is applied using <style> tag in <head>,External:create an external  
+     file using .css extension and attach with <link> tag in html file.
+       
+14.  Embedded style sheets are konwn as internal style sheets.These are CSS styles that are
+     defined within an HTML document using the <style> tag.With the help of this you can write CSS
+     rules and selectors to style the elements in that specific HTML document.
+       
+15.  External style sheets are defined in separate CSS files with a .css extension.These CSS files
+     are then linked to HTML documents using the <link> tag.
+       
+16.  Advantages:Consistent styling,Reusability,Easy updates,Browser caching.
+     Disadvantages:Additional HTTP requests,Dependency on external file,File management,Limited
+     inline styling.
+       
+17.  selector is a pattern that defines which elements in an HTML document should be targeted
+     and styled.It allows you to select specific elements based on their tag name, class, ID,
+     attributes,their relationship with other elements.
+       
+18. 'all','screen','print','speech','projection','handheld','tv','aural' media types are allowed by CSS.
+  
+19.  The rule set includes one or more CSS rules that define how specific elements in an HTML
+     document should be styled.Each rule set begins with a selector that selects one or more
+     elements,followed by a set of declarations enclosed in curly brackets {}
